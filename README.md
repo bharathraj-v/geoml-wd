@@ -6,11 +6,7 @@ This is the working directory of the research internship work that aims to apply
 
 **Language**: Python
 
-Geospatial Packages: https://geospatial.gishub.org/
-
-Machine Learning: [Tensorflow](tensorflow.org) and/or [Pytorch](pytorch.org)
-
-Every package and library used is listed in [requirements.txt](requirements.txt)
+Geospatial Packages: [Conda geospatial package](https://geospatial.gishub.org/), Machine Learning: [Tensorflow](tensorflow.org) and/or [Pytorch](pytorch.org). Every package and library used is listed in the [requirements.txt](requirements.txt) file.
 
 ## Objectives
 
